@@ -1,0 +1,16 @@
+{
+	"autoload":{
+		"psr-4":{
+			"Controllers\\":"Controllers/",
+			"Models\\":"Models/",
+			"Core\\":"Core/",
+			"Utils\\":"Utils/",
+			"Services\\":"Services/"
+		}
+	},
+	"require": {
+		"phpmailer/phpmailer": "^6.4",
+		"harvesthq/chosen": "^1.8"
+	}
+}
+ 
