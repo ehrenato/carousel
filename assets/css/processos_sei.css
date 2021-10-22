@@ -1,0 +1,13 @@
+.select2-container .select2-selection--single {
+    min-height: 38px;
+    width: 100%;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 8px !important;
+}
+#grupoBotoes .btn-default{
+    border: 0;
+}
+#grupoBotoes{
+    margin-top: -8px;
+}
